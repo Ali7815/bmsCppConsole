@@ -1,0 +1,4 @@
+ali,a,1,asd,342,12,4000
+haider,h,1,asdd,132,14,6000
+khan,k,1,saving,231,5,2132
+khan,s,1,asd,sad,213,5000
